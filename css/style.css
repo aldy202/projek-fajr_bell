@@ -1,0 +1,82 @@
+.c-item {
+    height: 480px;
+
+}
+
+.c-item {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+
+
+}
+
+.g-size {
+    border-radius: 10px;
+}
+
+.f-set{
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+}
+
+.ft-set{
+    color: rgb(225, 225, 225);
+    font-size: 20px;
+}
+
+.navbar-nav {
+    padding: 0 3rem;
+}
+
+.nav-link {
+    font-size: 15px;
+}
+
+.nav-link.active {
+    font-weight: 500;
+}
+
+
+.jd{
+    text-align: start;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 215px;
+
+    
+}
+.jeda{
+    background: radial-gradient(circle, #c0c0c0, #a8a8a8);
+    backdrop-filter: blur(20px);
+    height: 60px;
+    
+}
+
+.bg-persyaratan{
+    height: 700px;
+}
+.posisi{
+    
+    font-size: 19px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+    background-color: rgb(234, 58, 58);
+    width: 15rem;
+    
+
+    height: 45px;
+    border-radius:20px ;
+    
+    color: aliceblue;
+    margin: 30px auto 30px;
+}
+
+.coba{
+    text-align: center;
+    align-items: center;
+    padding-top: 5px;
+}
+
